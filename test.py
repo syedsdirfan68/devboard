@@ -15,3 +15,7 @@ def test-me():
 def test-again():
     break
     # intentionally broken
+
+
+
+def stash changes test
