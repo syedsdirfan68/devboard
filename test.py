@@ -5,4 +5,21 @@ def test-me():
 
 
 
+<<<<<<< HEAD
+"This is test File")
+
+
+
+
+
+
+def test-again():
+    break
+    # intentionally broken
+
+
+
+def stash changes test
+=======
 ("This is test File")
+>>>>>>> master
