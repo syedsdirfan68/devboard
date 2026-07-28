@@ -5,11 +5,6 @@ def test-me():
 
 
 
-<<<<<<< HEAD
-"This is test File")
-
-
-
 
 
 
@@ -22,4 +17,4 @@ def test-again():
 def stash changes test
 =======
 ("This is test File")
->>>>>>> master
+
