@@ -21,5 +21,5 @@ def stash changes test
 
 
 
-def "version tag"
+def "version tag new"
 
